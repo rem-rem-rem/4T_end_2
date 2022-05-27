@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="Green">
+    <file>Icon_Green/activity.svg</file>
+    <file>Icon_Green/bar-chart-2.svg</file>
+    <file>Icon_Green/grid.svg</file>
+    <file>Icon_Green/hard-drive.svg</file>
+    <file>Icon_Green/log-out.svg</file>
+    <file>Icon_Green/settings.svg</file>
+    <file>Icon_Green/slack.svg</file>
+    <file>Icon_Green/user.svg</file>
+  </qresource>
+  <qresource prefix="White">
+    <file>Icon_White/bar-chart-2.svg</file>
+    <file>Icon_White/chevron-left.svg</file>
+    <file>Icon_White/chevrons-left.svg</file>
+    <file>Icon_White/grid.svg</file>
+    <file>Icon_White/hard-drive.svg</file>
+    <file>Icon_White/message-circle.svg</file>
+    <file>Icon_White/settings.svg</file>
+  </qresource>
+</RCC>
